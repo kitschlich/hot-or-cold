@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 	
 	var number,
@@ -65,5 +64,3 @@ $(document).ready(function(){
   	newGame();
 
 });
-
-
